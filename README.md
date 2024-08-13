@@ -1,3 +1,8 @@
+# Integrantes
+Gabriel Henriques Belliato - ghb@cesar.school
+Hugo Alcantra da Rocha - har3@cesar.school
+Letícia Gomes da Silva - lgs@cesar.school
+
 # Projeto-PIF
 Projeto da matéria de Programação Imperativa Funcional, do segundo período de Ciência da Computação na Cesar School. 
 
